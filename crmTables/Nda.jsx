@@ -229,7 +229,7 @@ const Container = styled.div`
     font-family: "Nunito";
     left: 160px;
     font-weight: 700;
-    font-size: 22px;
+    font-size: 20px;
     color: #2c333a;
   }
 
@@ -238,7 +238,7 @@ const Container = styled.div`
     left: 160px;
     top: 190px;
     font-weight: 500;
-    font-size: 22px;
+    font-size: 20px;
     color: #2c333a;
   }
 
@@ -250,7 +250,7 @@ const Container = styled.div`
     left: 60px;
     font-family: "Nunito";
     font-weight: 400;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 27px;
     color: #2c333a;
   }
@@ -262,7 +262,7 @@ const Container = styled.div`
     left: 60px;
     font-family: "Nunito";
     font-weight: 400;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 27px;
     color: #2c333a;
   }
@@ -273,7 +273,7 @@ const Container = styled.div`
     left: 60px;
     font-family: "Nunito";
     font-weight: 400;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 27px;
     color: #2c333a;
   }
@@ -283,7 +283,7 @@ const Container = styled.div`
     left: 60px;
     font-family: "Nunito";
     font-weight: 400;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 27px;
     color: #2c333a;
   }
